@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Currently no offers... </h1>   
+         <h1> Big sale year end 2023... </h1>   
 	 
 
     </section>    
